@@ -1,0 +1,30 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 50 px;
+    background-color: aliceblue;
+}
+
+h2{
+    color: darkcyan;
+}
+
+button{
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: rgb(25, 8, 211);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(145, 136, 235);
+    color: white;
+}
+
+#messsage{
+    margin-top: 20px;
+    font-size: 18px;
+    color: darkred;
+}
